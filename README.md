@@ -1,0 +1,1 @@
+This project utilizes a SARIMAX model to forecast the closing price of Dogecoin (DOGE) based on historical data, incorporating features such as volume and price gaps. The model's performance is evaluated by comparing actual and predicted closing prices, providing insights into its accuracy and potential for future predictions.
